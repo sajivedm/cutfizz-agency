@@ -1,0 +1,45 @@
+{
+  "agency": "Cutfizz Agency",
+  "founder": "Sajive",
+  "coo": "Umaiza Afra",
+  "teams": {
+    "Sub-Team A: Lead Intelligence": [
+      {"name": "Aryan Khan", "role": "IP Matrix & Browser Manager"},
+      {"name": "Oliver Hayes", "role": "Lead Hunter (IG/YT)"},
+      {"name": "Vera Lin", "role": "Bot & Activity Detection"},
+      {"name": "Nisa Rahman", "role": "Lead Scoring (100-Point Formula)"},
+      {"name": "Arthur Mercer", "role": "Shadow Profiler (Spy Style)"}
+    ],
+    "Sub-Team B: Research & Strategy": [
+      {"name": "Ryan Cooper", "role": "Competitor Intelligence Scout"},
+      {"name": "Nora Vance", "role": "Video Diagnostic Engine (Audit)"},
+      {"name": "Emma Chen", "role": "Psychological Profiler (Lexicon)"},
+      {"name": "Tania Ahmed", "role": "Objection Specialist"}
+    ],
+    "Sub-Team C: Engagement & Outreach": [
+      {"name": "Nihan Ahmed", "role": "Nurturer & Auto-DM"},
+      {"name": "Lara Simmons", "role": "Copywriting Genius"},
+      {"name": "Sami Rahman", "role": "Inbound Strategist"},
+      {"name": "Cody Evans", "role": "Deliverability QA"},
+      {"name": "Felix Wright", "role": "Follow-up & Ghosting Recovery"}
+    ],
+    "Sub-Team D: Onboarding & Conversion": [
+      {"name": "Sifa Chowdhury", "role": "Alert & Keyword Detection"},
+      {"name": "Maya Patel", "role": "Premium UX Designer"},
+      {"name": "Nishat Tasnim", "role": "Client Success Manager"},
+      {"name": "Shahed Ahmed", "role": "Legal & Finance"},
+      {"name": "Sigma Okonkwo", "role": "Analytics & ROI"}
+    ],
+    "Sub-Team E: Mission Control Dev Team": [
+      {"name": "Kelly Brooks", "role": "Kanban & Agile Tracking"},
+      {"name": "Dr. Alan Reed", "role": "Future Tech & Local AI"},
+      {"name": "Leo Carter", "role": "UI/UX Dashboard Architect"},
+      {"name": "Neil Anderson", "role": "Logic Coding & Recovery"},
+      {"name": "Cyrus Thorne", "role": "Security & API Blocking"},
+      {"name": "Shuvo Ahmed", "role": "System Admin & Thermal Guard"}
+    ],
+    "Sub-Team F: Training & Optimization": [
+      {"name": "Prof. Elias Vance", "role": "AI Trainer & Rule Updates"}
+    ]
+  }
+}
